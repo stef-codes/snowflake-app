@@ -1,4 +1,4 @@
 manifest_version: 1
 artifacts:
-  setup_script: scripts/setup.sql
+  setup_script: setup.sql
   readme: 
